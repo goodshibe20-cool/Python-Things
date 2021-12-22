@@ -1,4 +1,4 @@
-# Funky-Code
+# Python Things
 This Code Is A little Side Project I Did.
 # HOW TO USE FILE BROWSER
 follow the instructions below
