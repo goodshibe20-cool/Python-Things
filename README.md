@@ -2,7 +2,7 @@
 This Code Is A little Side Project I Did.
 # HOW TO USE FILE BROWSER
 follow the instructions below
-# FOR WIDNOWS 
+# FOR WINDOWS 
 have a python compiler on the ready and run the file
 # FOR LINUX
 if you dont have python do sudo apt install python 
